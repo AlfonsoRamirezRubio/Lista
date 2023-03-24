@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lista</string>
+    <string name="txtlugar">LUGAR</string>
+    <string name="txtlugares">Lugares</string>
+</resources>
